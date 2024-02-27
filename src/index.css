@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inika:wght@00;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inika:wght@400;700&family=Shadows+Into+Light&display=swap');
+
+
+body, html {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+    font-family: "Inika", serif;
+    scroll-behavior: smooth;
+    color: rgb(88, 86, 86);
+    background-color: beige;
+}
+h1{
+    font-family: "Shadows Into Light", cursive;
+}
