@@ -18,6 +18,7 @@ export default function About() {
             Interior design is one of the factors that really encompass not just
             the layout of the salon but also the furniture of the salon as well.
           </p>
+          <p>For more enquire you can call us on  <span className="text-orange-300 text-1xl"> +44 0735092004, +44 7404250009</span></p>
         </div>
         <div >
             <img src={logo} alt="" className=" w-[500px] h-[400px] object-cover rounded-md" />
