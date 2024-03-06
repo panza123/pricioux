@@ -1,5 +1,5 @@
-import logo from '../src/assets/img/WhatsApp Image 2024-02-22 at 14.23.01(1).jpeg'
-import logo2 from '../src/assets/img/WhatsApp Image 2024-02-22 at 14.23.01.jpeg'
+import logo from '../src/assets/img/WhatsApp Image 2024-03-05 at 13.02.41.jpeg'
+import logo2 from '../src/assets/img/WhatsApp Image 2024-03-05 at 13.02.42.jpeg'
 import logo3 from '../src/assets/img/WhatsApp Image 2024-02-22 at 14.23.01(2).jpeg'
 import logo4 from  '../src/assets/img/WhatsApp Image 2024-02-22 at 14.23.09.jpeg'
 import logo5 from '../src/assets/img/WhatsApp Image 2024-02-22 at 14.23.09(1).jpeg'
